@@ -40,19 +40,10 @@ Software Engineering undergrad at IICT, SUST. Passoniate about Web Development, 
 <br />
 
 
-<br>
-
-<!--
-**sajidul-kabir/sajidul-kabir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me:
+- 🔭 I’m currently working on: Web Applications
+- 🌱 I’m currently learning: Vue.js, jest, CI/CD
+- 👯 I’m looking to collaborate on: Large scale web projects
+- 🤔 I’m looking for help with: System Design, Software Architechture
+- 💬 Ask me about: Vue.js, Backend Development, Project Structures and Design Patterns
+- ⚡ Fun fact: Otters are cool
