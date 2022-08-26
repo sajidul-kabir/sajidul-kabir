@@ -1,17 +1,32 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/53114757/186635038-9a8fc243-a75c-471c-8e2c-310ec84f1ed2.gif" width="300" height="250"/>
-
 </p>
 
 ## Hi there! Sajid Here 
-![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=222244&labelColor=000000&logo=linkedin&logoColor=f5f7fe)](http://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=tahsintunan)
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=222244&labelColor=000000&logo=gmail&logoColor=f5f7fe)](mailto:tahsintunan@gmail.com?subject=From%20GitHub&&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sajidul-kabir-748b57211/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sajiudulkabiradib@gmail.com?subject=From%20GitHub&&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)
+[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/sajidulkabir.adib/)
+
 
 blah
 
 
+### Tech Stack
 
-## Github Stats
+```json
+{
+  "language": ["javascript", "c++", "java", "typescript", "c"],
+  "frontend": ["vue", "react", "next", "css", "sass"],
+  "backend": ["node", "express", "nest"],
+  "testing": ["jest", "mocha"]
+  "database": ["mysql", "mongodb", "postgresql", "redis"],
+  "devOps": ["docker", "github-actions"],
+}
+```
+
+
+
+### Github Stats
 <br>
 
 
