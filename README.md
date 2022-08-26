@@ -7,8 +7,9 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sajiudulkabiradib@gmail.com?subject=From%20GitHub&&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)
 [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/sajidulkabir.adib/)
 
+Software Engineering undergrad at IICT, SUST. Passoniate about Web Development, Problem Solving and customer-driven iterative Product Development. Loves to work in a team setting and learn new skills and implementing them. Areas of interests consist of System Design, Decentralized Systems, Web3, Testing and Refactoring, Software Architecture.
 
-blah
+<br>
 
 
 ### Tech Stack
@@ -24,10 +25,9 @@ blah
 }
 ```
 
-
+</br>
 
 ### Github Stats
-<br>
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sajidul-kabir&theme=radical&background=0A0A0A&stroke=CDB4DB&ring=CDB4DB&currStreakNum=D3D3D3&sideNums=D3D3D3&dates=CDB4DB)](https://git.io/streak-stats)
