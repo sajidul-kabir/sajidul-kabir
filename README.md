@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/53114757/186635038-9a8fc243-a75c-471c-8e2c-310ec84f1ed2.gif" width="300" height="250"/>
 </p>
 
-## Hi there! Sajid Here 
+## Hi there! Sajid Here ~
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sajidul-kabir-748b57211/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sajiudulkabiradib@gmail.com?subject=From%20GitHub&&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)
 [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/sajidulkabir.adib/)
@@ -42,7 +42,7 @@ Software Engineering undergrad at IICT, SUST. Passoniate about Web Development, 
 
 ### About me:
 - 🔭 I’m currently working on: Web Applications
-- 🌱 I’m currently learning: Vue.js, jest, CI/CD
+- 🌱 I’m currently learning: PostgreSQL, RabbitMQ, CI/CD
 - 👯 I’m looking to collaborate on: Large scale web projects
 - 🤔 I’m looking for help with: System Design, Software Architechture
 - 💬 Ask me about: Vue.js, Backend Development, Project Structures and Design Patterns
