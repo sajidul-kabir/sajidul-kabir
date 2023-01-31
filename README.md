@@ -16,12 +16,12 @@ Software Engineering undergrad at IICT, SUST. Passoniate about Web Development, 
 
 ```json
 {
-  "language": ["javascript", "c++", "java", "typescript", "c"],
-  "frontend": ["vue", "react", "next", "css", "sass"],
-  "backend": ["node", "express", "nest"],
+  "language": ["javascript", "c++", "java", "c"],
+  "frontend": ["vue", "tailwindcss"],
+  "backend": ["node", "express"],
   "testing": ["jest", "mocha"]
-  "database": ["mysql", "mongodb", "postgresql", "redis"],
-  "devOps": ["docker", "github-actions"],
+  "database": ["mysql", "mongodb", "redis"],
+  "devOps": ["docker"],
 }
 ```
 
