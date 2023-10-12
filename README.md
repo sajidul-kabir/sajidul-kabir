@@ -7,7 +7,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sajiudulkabiradib@gmail.com?subject=From%20GitHub&&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)
 [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/sajidulkabir.adib/)
 
-Software Engineering undergrad at IICT, SUST. Passoniate about Web Development, Problem Solving and customer-driven iterative Product Development. Loves to work in a team setting and learn new skills and implementing them. Areas of interests consist of System Design, Decentralized Systems, Web3, Testing and Refactoring, Software Architecture.
+Software Engineering undergrad at IICT, SUST. Passionate about Web Development, Problem Solving, and customer-driven iterative Product Development. Loves to work in a team setting and learn and implement new skills. Areas of interest include System Design, Building Highly Scalable Systems, Design Patterns, Testing and Refactoring, Decentralized Systems, and Web3.
 
 <br>
 
@@ -16,12 +16,12 @@ Software Engineering undergrad at IICT, SUST. Passoniate about Web Development, 
 
 ```json
 {
-  "language": ["javascript", "c++", "java", "c"],
+  "language": ["javascript", "typescript", "java", "c++", "c"],
   "frontend": ["vue", "tailwindcss"],
-  "backend": ["node", "express"],
+  "backend": ["node", "express", "spring-boot", "springMVC"],
   "testing": ["jest", "mocha"]
-  "database": ["mysql", "mongodb", "redis"],
-  "devOps": ["docker"],
+  "database": ["MySQL", "oracle", "mongodb", "redis"],
+  "devOps": ["docker", "kubernetes"],
 }
 ```
 
@@ -41,8 +41,8 @@ Software Engineering undergrad at IICT, SUST. Passoniate about Web Development, 
 
 
 ### About me:
-- 🔭 I’m currently working on: Web Applications
-- 🌱 I’m currently learning: PostgreSQL, RabbitMQ, CI/CD
+- 🔭 I’m currently working on: Decentralized apps
+- 🌱 I’m currently learning: Solidity, Hardhat
 - 👯 I’m looking to collaborate on: Large scale web projects
 - 🤔 I’m looking for help with: System Design, Software Architechture
 - 💬 Ask me about: Vue.js, Backend Development, Project Structures and Design Patterns
