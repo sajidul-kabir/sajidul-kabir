@@ -47,3 +47,6 @@ Software Engineering undergrad at IICT, SUST. Passionate about Web Development, 
 - 🤔 I’m looking for help with: System Design, Software Architechture
 - 💬 Ask me about: Vue.js, Backend Development, Project Structures and Design Patterns
 - ⚡ Fun fact: Otters are cool
+<br />
+
+[![An image of @sajidulkabir's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sajidulkabir)](https://holopin.io/@sajidulkabir)
